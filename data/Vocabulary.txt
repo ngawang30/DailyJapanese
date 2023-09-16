@@ -1,5 +1,3 @@
-#separator:tab
-#html:false
 1	の	no	p. case	of; in; at; for; by	彼はこの大学の学生だ。	He is a student at this university.	47078 | 0.98 | BK
 2	に	ni	p. case	at; on; in; to; for	私は大阪に住んでいます。	I live in Osaka.	32231 | 1.00 | BK
 3	は	wa	p.	TOPIC	好きなスポーツはテニスです。	My favorite sport is tennis.	31572 | 1.00 | BK

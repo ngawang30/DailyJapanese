@@ -1,0 +1,5 @@
+For kana and kanji, all will already be unlocked as these are fundamental components and do not have inherit from anything.  That being said, kanji will be ordered and learned by stroke order as kanji with many strokes tend to inherit from others with fewer.
+
+For words, all kanji and kana contained has to be learned before unlocked.  When a kanji or kana is mastered, a temporary table of all words containing the kana or kanji will be created ordered by number of characters (for the same reason as kanji is ordered by strokes).  If there is a word that is unlocked but not mastered, then no new words will be unlocked. Else, an new word will be unlocked.  When a word is mastered, it will do a similar unlocking mechanism for each component of the word (kanji & kana).  
+
+As for grammar and sentences, it will temporarily follow the same unlocking system as words until a more ideal solution can be found.           

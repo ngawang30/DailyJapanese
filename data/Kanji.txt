@@ -1,5 +1,3 @@
-#separator:tab
-#html:false
 一	one	2	一: one, one radical (no. 1)	1	いち	one	One down, 2041 to go. ;).	"To learn this one kanji, I recommend (#2000) this story : Bambi is in a cave, eating a side-dish of salad when trying to learn the kanjis. As he succeed to learn the kanji for ""one"", you get jealous and decide to shoot him with a slingshot. At this moment you hear the police coming, so you hurriedly burn all the proofs into a fire (so you remove the key-words Bambi, slingshot and fire from recommend). So that when the police arrives, the only remaining clue is a single horizontal bar."
 二	two	9	二: two, two radical (no. 7)	2	に・ふた	two	Two lines.	Roman numeral II, written on its side.
 三	three	14	一: one; one radical (no.1) 一: one; one radical (no.1) 一: one; one radical (no.1)	3	いち	three	One + two = three.	THREE measurements define the female shape: BUST, WAIST, and HIPS. Waist is the smallest, and for most women the HIPS are wider than the chest.

@@ -1,5 +1,3 @@
-#separator:tab
-#html:false
 あ	a
 い	i
 う	u
