@@ -1,3 +1,4 @@
 09/04/2023	1h	manually added Japanese language components (alphabet & words) to be refined
 09/09/2023	2.5h	design documents (First draft of UI design, database schema, etc)
 09/16/2023	1.5h	working out the specifics of the progression system (w/ flow chart) 
+09/17/2023	3.5h	choosing appropriate DBMS(SQLite), learned some basics of SQLite(SQLiteSudio), and created tables from data.
